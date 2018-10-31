@@ -14,6 +14,8 @@ public class HelloWorld
 		System.out.println("zmiana1");
 		System.out.println("zmiana2");
 		System.out.println(dodawanie(5, 6));
+		System.out.println("zmiana3");
+		//tests
 		//tests
 	}
 }
